@@ -648,12 +648,6 @@
         ],
         "key": "illustration.TheLastPage.ARForest.0.HiRes"
     },
-    "1789975e767fe04f9170396ec1ac76aa.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.SakuraFubuki.Street.0.IN"
-    },
     "17e231fa4aa792392fe74bf858c3268c.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -699,6 +693,12 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.AuthenticGamever.Rukadesunowheretogo.0.HiRes"
+    },
+    "208220421b88e304beb9f6f87f1f140a.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Contact.NeutralMoonMK.0.IN"
     },
     "214d7c4aa724407de4b96bb45ce60d1e.bundle": {
         "class": [
@@ -808,6 +808,12 @@
         ],
         "key": "illustration.TheNextArcady.SEPHID.0.HiRes"
     },
+    "383b65a7bf4a62ec5b89b98726fb34bd.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Polygons.Riya.0.HD"
+    },
     "38d279d934600ea1b1f3be8b282317fa.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -820,12 +826,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Vrtuaresort.seatrus.0.HiRes"
-    },
-    "3a1f13f07292cf61f21d046953dc5f26.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "local.zh-Hant"
     },
     "3b59936dbc7418c7c3b3c018918843c8.bundle": {
         "class": [
@@ -910,17 +910,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Bamboo.rissyuu.0"
-    },
-    "4608730b86621a080fc996342380c870.bundle": {
-        "class": [
-            "UnityEngine.GameObject",
-            "EventTrigger+Trigger",
-            "UnityEngine.Events.UnityEvent",
-            "UnityEngine.Events.PersistentCallGroup",
-            "UnityEngine.Events.PersistentListenerMode",
-            "UnityEngine.Events.ArgumentCache"
-        ],
-        "key": "Tutorial.prefab"
     },
     "48019474c6767f7321350c964228c0fd.bundle": {
         "class": [
@@ -1010,6 +999,12 @@
         ],
         "key": "chart.TheNextArcady.SEPHID.0.EZ"
     },
+    "5aa028b9ae73234741e9cc110e16d322.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.SwingSweetTweeDance.Uske.0.EZ"
+    },
     "5c84e8c17e9253cb8599cff1bfadd04e.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1069,6 +1064,12 @@
         ],
         "key": "chart.OnAndOn.ETIA.0.HD"
     },
+    "666e75aaadc99ebd1fa997d695ef7193.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.NOONEYESMAN.MYUKKE.0.HD"
+    },
     "6b401c6b4882d15bb89b0879a0127322.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1102,12 +1103,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Polygons.Riya.0"
-    },
-    "72bd59833472cae27ce935129388acee.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "local.zh-Hans"
     },
     "72d3927fa28ea84294c821fb179e4ce6.bundle": {
         "class": [
@@ -1167,6 +1162,12 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Abgrund.ElousFZ.0.HiRes"
+    },
+    "799a84316593639833952ef8528f0178.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "local.zh-Hant"
     },
     "7a19d499ff5b86447f2e9fc341ca3cf3.bundle": {
         "class": [
@@ -1240,12 +1241,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Contact.NeutralMoonMK.0.HiRes"
-    },
-    "8b15fc546e7b652ebed39d673c81d679.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.SwingSweetTweeDance.Uske.0.EZ"
     },
     "8fcfb256ee98f38d0bf2bf33ad3c1d3c.bundle": {
         "class": [
@@ -1360,18 +1355,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.ILLEGALLEGACY.seatrus.0.HD"
-    },
-    "ab96cda0bf2197eef7af42b07d2a9d90.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.NOONEYESMAN.MYUKKE.0.HD"
-    },
-    "aef9b601db2a717c3b9f4825ea5fba3b.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Polygons.Riya.0.HD"
     },
     "b163e15da783fa4cfec0207d34a7ccbe.bundle": {
         "class": [
@@ -1499,12 +1482,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.Dice20.Daily.0.IN"
-    },
-    "ced912105d76c8611075c6baf675f3de.bundle": {
-        "class": [
-            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
-        ],
-        "key": "eventScene.starterEvent"
     },
     "cedf147e22d06d6539fda2d41f750e33.bundle": {
         "class": [
@@ -1796,6 +1773,12 @@
         ],
         "key": "chart.Vrtuaresort.seatrus.0.EZ"
     },
+    "d3e9b2408e2a51f9f9290f57369ff93a.bundle": {
+        "class": [
+            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+        ],
+        "key": "eventScene.starterEvent"
+    },
     "d40188cd5650047bfc7f626ded167667.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1828,6 +1811,18 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Vrtuaresort.seatrus.0"
+    },
+    "d80903d13f347746834e17c816350bb2.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "local.zh-Hans"
+    },
+    "d8436166ae5dabf91a52c901b3622a7d.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.SakuraFubuki.Street.0.IN"
     },
     "d96297215e861fcd5437d5510db2c5cd.bundle": {
         "class": [
@@ -1893,12 +1888,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.Gleam.Uske.0.HD"
-    },
-    "ea577c8ad48d800943716decce6a6b9c.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Contact.NeutralMoonMK.0.IN"
     },
     "ecd52c9d8c35fdfc8db465710c268e2f.bundle": {
         "class": [
