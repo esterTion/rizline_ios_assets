@@ -310,6 +310,13 @@
         ],
         "key": "chart.PowerAttack.EBIMAYO.0.EZ"
     },
+    "0cd5666f2abf83f230486e4875ef1aff.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.CANDYLAND.Seo.0.HiRes"
+    },
     "0db74d08f4b54cfea4fed6e9d3ea75e2.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -355,6 +362,13 @@
         ],
         "key": "chart.JourneyToTheRainbows.Ardolf.0.EZ"
     },
+    "15a969edd6d9148058d768265557a919.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.MilK.morimoriatsushi.0.HiRes"
+    },
     "16b38bdf503de401850849c7dc3a41ac.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -367,6 +381,13 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.NOONEYESMAN.MYUKKE.0.EZ"
+    },
+    "17d9983de0875bccd569aa5629da588d.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.ArcadeViruZ.AspidCat.0.HiRes"
     },
     "17e231fa4aa792392fe74bf858c3268c.bundle": {
         "class": [
@@ -400,6 +421,13 @@
         ],
         "key": "chart.SakuraFubuki.Street.0.EZ"
     },
+    "1d4ba8136835142cb8db870ffa7a4022.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.MilK.morimoriatsushi.0"
+    },
     "1de32d0694e23b63e01a73c28dc7e2dd.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -419,6 +447,17 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.Contact.NeutralMoonMK.0.IN"
+    },
+    "20b33ae54e008175e46b8baf52e6fa5b.bundle": {
+        "class": [
+            "LevelInfo",
+            "MusicInfo",
+            "IllustrationInfo",
+            "ChartInfo",
+            "DifficultyColorInfo",
+            "AssetList"
+        ],
+        "key": "AssetList"
     },
     "214d7c4aa724407de4b96bb45ce60d1e.bundle": {
         "class": [
@@ -443,13 +482,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.PastelLines.RekuMochizuki.0.HD"
-    },
-    "264ffcddb24662812a60974778d42377.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.FORTALiCE.ZxNX.0"
     },
     "26cdb2e008419e00b3a0ba4b83ce86ca.bundle": {
         "class": [
@@ -503,13 +535,6 @@
         ],
         "key": "chart.ArcadeViruZ.AspidCat.0.IN"
     },
-    "2f25415ed19431a077ed6d34fc069fa3.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.CANDYLAND.Seo.0.HiRes"
-    },
     "305d1bd7ce69119d1a252784ecd0e21a.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -559,17 +584,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Vrtuaresort.seatrus.0.HiRes"
-    },
-    "39cfe396dd453b129d91e65381480c71.bundle": {
-        "class": [
-            "LevelInfo",
-            "MusicInfo",
-            "IllustrationInfo",
-            "ChartInfo",
-            "DifficultyColorInfo",
-            "AssetList"
-        ],
-        "key": "AssetList"
     },
     "3b59936dbc7418c7c3b3c018918843c8.bundle": {
         "class": [
@@ -628,11 +642,25 @@
         ],
         "key": "chart.ClockParadox.WyvernP.0.EZ"
     },
+    "40397350544392aa5f77320ec452ada2.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.Revenant.Juggernaut.0.HiRes"
+    },
     "4138ab562961e5ac7c936e0899b42126.bundle": {
         "class": [
             "UnityEngine.TextAsset"
         ],
         "key": "chart.ILLEGALLEGACY.seatrus.0.EZ"
+    },
+    "414370e96e2f96514b9a592fccbb6218.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.FORTALiCE.ZxNX.0"
     },
     "41517419f05050e3b422f507ca26e1ab.bundle": {
         "class": [
@@ -698,6 +726,13 @@
         ],
         "key": "chart.Vrtuaresort.seatrus.0.IN"
     },
+    "4fbb527358dfd3acea9e1e4c887dd209.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.DropDown.Cosmograph.0.HiRes"
+    },
     "50f8056fd9e3c8e6490c953c9764cdd6.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -709,6 +744,13 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.Empire.416.0.EZ"
+    },
+    "53939685f7f0ca3f50aac75a0ff648b5.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.Tempest.Plum.0.HiRes"
     },
     "541c8d329f4d790d107536fc5e297c99.bundle": {
         "class": [
@@ -775,13 +817,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.SuperUniverseKnighthoodRemix.Knighthood.0"
-    },
-    "607db98ef94c216be1bd574ea92520a4.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.MilK.morimoriatsushi.0"
     },
     "6160d9a8679f525cb060c1a6865a37a1.bundle": {
         "class": [
@@ -854,6 +889,12 @@
         ],
         "key": "illustration.Polygons.Riya.0"
     },
+    "702a7d03d9a7299af452962f031293b5.bundle": {
+        "class": [
+            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+        ],
+        "key": "eventScene.starterEvent"
+    },
     "72d3927fa28ea84294c821fb179e4ce6.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -886,25 +927,18 @@
         ],
         "key": "illustration.Shattered.ARForest.0.HiRes"
     },
-    "766180e1f304a3360753fd2f84ff6782.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.LEONIDS.SaMZIngTitanChaos.0.HiRes"
-    },
     "76e035fccf2174421c9c2502c532f5e7.bundle": {
         "class": [
             "UnityEngine.TextAsset"
         ],
         "key": "chart.SwingSweetTweeDance.Uske.0.IN"
     },
-    "787d8b17677678ac1d921630f8d0c211.bundle": {
+    "77fc0de33b2fb2e96f3f3968306f6dac.bundle": {
         "class": [
             "UnityEngine.Texture2D",
             "UnityEngine.Sprite"
         ],
-        "key": "illustration.ArcadeViruZ.AspidCat.0.HiRes"
+        "key": "illustration.macrowav.dandeless.0.HiRes"
     },
     "78b7d3b1d8e633231037dd870c4d7810.bundle": {
         "class": [
@@ -1004,13 +1038,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.JourneyToTheRainbows.Ardolf.0.IN"
-    },
-    "9369445a9806cf8f1328ffc4363214ad.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.macrowav.dandeless.0.HiRes"
     },
     "9426995fd0a290de8301320a176f1f08.bundle": {
         "class": [
@@ -1523,12 +1550,6 @@
         ],
         "key": "chart.Vrtuaresort.seatrus.0.EZ"
     },
-    "d3e9b2408e2a51f9f9290f57369ff93a.bundle": {
-        "class": [
-            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
-        ],
-        "key": "eventScene.starterEvent"
-    },
     "d40188cd5650047bfc7f626ded167667.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1613,13 +1634,6 @@
         ],
         "key": "chart.LEONIDS.SaMZIngTitanChaos.0.HD"
     },
-    "e1e5ff5688dde3a4eaeb41a8ec113663.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.DropDown.Cosmograph.0.HiRes"
-    },
     "e527d4c3dcccbda697aa4bf856bdb3e3.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1646,13 +1660,6 @@
         ],
         "key": "illustration.SuperUniverseKnighthoodRemix.Knighthood.0.HiRes"
     },
-    "eed8676c762fa15a07761ad1659c1a95.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.Tempest.Plum.0.HiRes"
-    },
     "effec88214a0a079f6ceb05dfc6dad2b.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1664,13 +1671,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.NOONEYESMAN.MYUKKE.0.HD"
-    },
-    "f245c3bb7d444b65e86d813048a1f5c3.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.MilK.morimoriatsushi.0.HiRes"
     },
     "f54ddc50cfc7e70f521e28f3840dc533.bundle": {
         "class": [
@@ -1691,6 +1691,13 @@
         ],
         "key": "chart.Tempest.Plum.0.HD"
     },
+    "fa1f30416e3791e7a0055de2906d059a.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.LEONIDS.SaMZIngTitanChaos.0.HiRes"
+    },
     "fbf70bc85651a1b135ac67bd4ba689a7.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1704,13 +1711,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.MidnightFlux.ProjectG.0"
-    },
-    "fde5b962d094537cc2ef2e9e61f382bb.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.Revenant.Juggernaut.0.HiRes"
     },
     "fe82befccfc36811566f179d3ebfac87.bundle": {
         "class": [
