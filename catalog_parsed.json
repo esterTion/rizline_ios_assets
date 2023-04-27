@@ -3395,6 +3395,18 @@
             "m_ClassName": "UnityEngine.Events.PersistentListenerMode"
         }
     },
+    "UnityEngine.GameObject-RateMyApp": {
+        "internalId": "RateMyApp",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "RateMyApp",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.GameObject"
+        }
+    },
     "UnityEngine.GameObject-SRDebugger/UI/Prefabs/BugReportPopover": {
         "internalId": "SRDebugger/UI/Prefabs/BugReportPopover",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -4362,6 +4374,22 @@
         },
         "depHash": 0,
         "primaryKey": "1bf0f8b07ebafa0044871bd33788ebb0.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-1d30d9cbb1a9d3b89665af570d0513df.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/1d30d9cbb1a9d3b89665af570d0513df.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "1d30d9cbb1a9d3b89665af570d0513df.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -7039,22 +7067,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-ac152746f9f7b06a009b222f343019e8.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/ac152746f9f7b06a009b222f343019e8.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "ac152746f9f7b06a009b222f343019e8.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-ae4ccf879470a03e028c86810d807b40.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/ae4ccf879470a03e028c86810d807b40.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -9422,9 +9434,9 @@
     "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance-eventScene.starterEvent": {
         "internalId": "59bb044e918a28947adc603b09d0d0b5",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "ac152746f9f7b06a009b222f343019e8.bundle",
+        "dependencyKey": "1d30d9cbb1a9d3b89665af570d0513df.bundle",
         "data": null,
-        "depHash": 1224579910,
+        "depHash": -1914494644,
         "primaryKey": "eventScene.starterEvent",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -15165,6 +15177,426 @@
         "type": {
             "m_AssemblyName": "UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Video.VideoClip"
+        }
+    },
+    "VoxelBusters.CoreLibrary.NativePlugins.NativeFeatureUsagePermissionDefinition-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.CoreLibrary.NativePlugins, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.CoreLibrary.NativePlugins.NativeFeatureUsagePermissionDefinition"
+        }
+    },
+    "VoxelBusters.CoreLibrary.RuntimePlatformConstantSet-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.CoreLibrary, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.CoreLibrary.RuntimePlatformConstantSet"
+        }
+    },
+    "VoxelBusters.EssentialKit.AddressBookUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.AddressBookUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.ApplicationSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.ApplicationSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.BillingProductDefinition+AndroidPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.BillingProductDefinition+AndroidPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.BillingProductDefinition+IosPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.BillingProductDefinition+IosPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.BillingProductDefinition-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.BillingProductDefinition"
+        }
+    },
+    "VoxelBusters.EssentialKit.BillingServicesUnitySettings+AndroidPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.BillingServicesUnitySettings+AndroidPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.BillingServicesUnitySettings+IosPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.BillingServicesUnitySettings+IosPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.BillingServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.BillingServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.CloudServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.CloudServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.DeepLinkServicesUnitySettings+AndroidPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.DeepLinkServicesUnitySettings+AndroidPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.DeepLinkServicesUnitySettings+IosPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.DeepLinkServicesUnitySettings+IosPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.DeepLinkServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.DeepLinkServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.EssentialKitSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.EssentialKitSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.GameServicesUnitySettings+AndroidPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.GameServicesUnitySettings+AndroidPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.GameServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.GameServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.MediaServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.MediaServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.NativeFeatureUsagePermissionSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NativeFeatureUsagePermissionSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.NativeUIUnitySettings+UnityUICollection-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NativeUIUnitySettings+UnityUICollection"
+        }
+    },
+    "VoxelBusters.EssentialKit.NativeUIUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NativeUIUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.NetworkServicesUnitySettings+Address-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NetworkServicesUnitySettings+Address"
+        }
+    },
+    "VoxelBusters.EssentialKit.NetworkServicesUnitySettings+PingTestSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NetworkServicesUnitySettings+PingTestSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.NetworkServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NetworkServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.NotificationServicesUnitySettings+AndroidPlatformProperties+Keys-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NotificationServicesUnitySettings+AndroidPlatformProperties+Keys"
+        }
+    },
+    "VoxelBusters.EssentialKit.NotificationServicesUnitySettings+AndroidPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NotificationServicesUnitySettings+AndroidPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.NotificationServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.NotificationServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.RateMyAppConfirmationDialogSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.RateMyAppConfirmationDialogSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.RateMyAppDefaultControllerSettings+PromptConstraints-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.RateMyAppDefaultControllerSettings+PromptConstraints"
+        }
+    },
+    "VoxelBusters.EssentialKit.RateMyAppDefaultControllerSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.RateMyAppDefaultControllerSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.RateMyAppSettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.RateMyAppSettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.SharingServicesUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.SharingServicesUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.UtilityUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.UtilityUnitySettings"
+        }
+    },
+    "VoxelBusters.EssentialKit.WebViewUnitySettings+AndroidPlatformProperties-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.WebViewUnitySettings+AndroidPlatformProperties"
+        }
+    },
+    "VoxelBusters.EssentialKit.WebViewUnitySettings-EssentialKitSettings": {
+        "internalId": "EssentialKitSettings",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
+        "dependencyKey": null,
+        "data": null,
+        "depHash": 0,
+        "primaryKey": "EssentialKitSettings",
+        "type": {
+            "m_AssemblyName": "VoxelBusters.EssentialKit, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "VoxelBusters.EssentialKit.WebViewUnitySettings"
         }
     }
 }

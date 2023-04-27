@@ -447,6 +447,12 @@
         ],
         "key": "chart.SakuraFubuki.Street.0.EZ"
     },
+    "1d30d9cbb1a9d3b89665af570d0513df.bundle": {
+        "class": [
+            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+        ],
+        "key": "eventScene.starterEvent"
+    },
     "1d4ba8136835142cb8db870ffa7a4022.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1241,12 +1247,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.ILLEGALLEGACY.seatrus.0.HD"
-    },
-    "ac152746f9f7b06a009b222f343019e8.bundle": {
-        "class": [
-            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
-        ],
-        "key": "eventScene.starterEvent"
     },
     "b2db1f48c999cb5011ca7c21e4af4041.bundle": {
         "class": [
