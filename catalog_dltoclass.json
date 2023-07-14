@@ -279,25 +279,6 @@
         ],
         "key": "illustration.LEONIDS.SaMZIngTitanChaos.0"
     },
-    "0027f6c56aed5ebc57a308bcf4ccb931.bundle": {
-        "class": [
-            "UnityEngine.GameObject",
-            "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent",
-            "UnityEngine.Events.PersistentCallGroup",
-            "UnityEngine.Events.UnityEvent",
-            "UnityEngine.Events.PersistentListenerMode",
-            "UnityEngine.Events.ArgumentCache",
-            "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "TMPro.VertexGradient",
-            "UnityEngine.UI.FontData",
-            "UnityEngine.UI.Navigation",
-            "UnityEngine.UI.ColorBlock",
-            "UnityEngine.UI.SpriteState",
-            "UnityEngine.UI.AnimationTriggers",
-            "UnityEngine.UI.Button+ButtonClickedEvent"
-        ],
-        "key": "event.supportUsEvent.card"
-    },
     "0301cc3add3db0eb1852bc80abf94aec.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -309,27 +290,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "local.zh-Hans"
-    },
-    "080425c3234cd75039b466ffba0a12ff.bundle": {
-        "class": [
-            "UnityEngine.GameObject",
-            "UnityEngine.Events.UnityEvent",
-            "UnityEngine.Events.PersistentCallGroup",
-            "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "UnityEngine.Events.PersistentListenerMode",
-            "UnityEngine.Events.ArgumentCache",
-            "UnityEngine.UI.Navigation",
-            "UnityEngine.UI.ColorBlock",
-            "UnityEngine.UI.SpriteState",
-            "UnityEngine.UI.AnimationTriggers",
-            "UnityEngine.UI.Button+ButtonClickedEvent",
-            "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent",
-            "TMPro.VertexGradient",
-            "ConditionalComponent+Resource`1[[MultiLanguageImage+SpriteFile, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-            "ConditionalComponent+Condition",
-            "MultiLanguageImage+SpriteFile"
-        ],
-        "key": "event.starterEvent.card"
     },
     "0a7747c4cdc905127fd7214f972e513d.bundle": {
         "class": [
@@ -849,6 +809,12 @@
         ],
         "key": "illustration.CANDYLAND.Seo.0.HiRes"
     },
+    "300b1e93bf9c7ab4e7af35c2850bf064.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "local.zh-Hant"
+    },
     "305d1bd7ce69119d1a252784ecd0e21a.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1167,17 +1133,23 @@
         ],
         "key": "chart.OnAndOn.ETIA.0.HD"
     },
-    "683c595c5997d9377aa91e9a78cd6078.bundle": {
+    "64ce2b07331843294505add5fb6ca45c.bundle": {
         "class": [
-            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+            "UnityEngine.GameObject",
+            "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent",
+            "UnityEngine.Events.PersistentCallGroup",
+            "UnityEngine.UI.FontData",
+            "UnityEngine.Events.UnityEvent",
+            "UnityEngine.Events.PersistentListenerMode",
+            "UnityEngine.Events.ArgumentCache",
+            "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "UnityEngine.UI.Navigation",
+            "UnityEngine.UI.ColorBlock",
+            "UnityEngine.UI.SpriteState",
+            "UnityEngine.UI.AnimationTriggers",
+            "UnityEngine.UI.Button+ButtonClickedEvent"
         ],
-        "key": "event.starterEvent.main"
-    },
-    "6ba48e1a29b31973b522bd5ee52b200d.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "local.zh-Hant"
+        "key": "event.supportUsEvent.card"
     },
     "6bd68ee3dccf89940040f34d06e34e9b.bundle": {
         "class": [
@@ -1354,6 +1326,27 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Contact.NeutralMoonMK.0.HiRes"
+    },
+    "8b4e0d46458badc14e97cf7d2b167840.bundle": {
+        "class": [
+            "UnityEngine.GameObject",
+            "UnityEngine.Events.UnityEvent",
+            "UnityEngine.Events.PersistentCallGroup",
+            "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "UnityEngine.Events.PersistentListenerMode",
+            "UnityEngine.Events.ArgumentCache",
+            "UnityEngine.UI.Navigation",
+            "UnityEngine.UI.ColorBlock",
+            "UnityEngine.UI.SpriteState",
+            "UnityEngine.UI.AnimationTriggers",
+            "UnityEngine.UI.Button+ButtonClickedEvent",
+            "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent",
+            "UnityEngine.UI.FontData",
+            "ConditionalComponent+Resource`1[[MultiLanguageImage+SpriteFile, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+            "ConditionalComponent+Condition",
+            "MultiLanguageImage+SpriteFile"
+        ],
+        "key": "event.starterEvent.card"
     },
     "8fcfb256ee98f38d0bf2bf33ad3c1d3c.bundle": {
         "class": [
@@ -1551,11 +1544,23 @@
         ],
         "key": "illustration.Bamboo.rissyuu.0.HiRes"
     },
+    "bacc5d013c4d7695537b7d495cf9c81c.bundle": {
+        "class": [
+            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+        ],
+        "key": "event.starterEvent.main"
+    },
     "bae893188ab2ea13825dc6e0f8483fac.bundle": {
         "class": [
             "UnityEngine.TextAsset"
         ],
         "key": "chart.Tempest.Plum.0.EZ"
+    },
+    "bb0b9fc072bbfb9d38fd589566fbc7a9.bundle": {
+        "class": [
+            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+        ],
+        "key": "event.supportUsEvent.main"
     },
     "bb325c327ca26bf96b52c20992dea5b8.bundle": {
         "class": [
@@ -1993,6 +1998,13 @@
         ],
         "key": "chart.MidnightFlux.ProjectG.0.HD"
     },
+    "d6ab681e547ba5c8f12964088af74687.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "event.supportUsEvent.banner.30000"
+    },
     "d7de9bc7bbabbe2dc04ed73777610f88.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -2094,12 +2106,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Tempest.Plum.0.HiRes"
-    },
-    "eef81b0c38772e24ed922798a70d33cf.bundle": {
-        "class": [
-            "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
-        ],
-        "key": "event.supportUsEvent.main"
     },
     "effec88214a0a079f6ceb05dfc6dad2b.bundle": {
         "class": [
