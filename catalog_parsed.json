@@ -2,9 +2,9 @@
     "AssetList-AssetList": {
         "internalId": "9699777a339d78a4b8c6433185767d9d",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
+        "dependencyKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "data": null,
-        "depHash": -825914114,
+        "depHash": 1185376910,
         "primaryKey": "AssetList",
         "type": {
             "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -14,13 +14,37 @@
     "ChartInfo-AssetList": {
         "internalId": "9699777a339d78a4b8c6433185767d9d",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
+        "dependencyKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "data": null,
-        "depHash": -825914114,
+        "depHash": 1185376910,
         "primaryKey": "AssetList",
         "type": {
             "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "ChartInfo"
+        }
+    },
+    "ConditionalComponent+Condition-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "ConditionalComponent+Condition"
+        }
+    },
+    "ConditionalComponent+Resource`1[[MultiLanguageImage+SpriteFile, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "ConditionalComponent+Resource`1[[MultiLanguageImage+SpriteFile, Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null]]"
         }
     },
     "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/Abgrund.ElousFZ.0.acb": {
@@ -30,18 +54,6 @@
         "data": null,
         "depHash": -74922343,
         "primaryKey": "Assets/GameAssets/CRIAsset/Abgrund.ElousFZ.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
-        }
-    },
-    "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/AbsolutionPulse.nm.0.acb": {
-        "internalId": "c3851a0cac4084a4ba8dda582f84450f",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 270703391,
-        "data": null,
-        "depHash": 270703391,
-        "primaryKey": "Assets/GameAssets/CRIAsset/AbsolutionPulse.nm.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
@@ -102,18 +114,6 @@
         "data": null,
         "depHash": -197531293,
         "primaryKey": "Assets/GameAssets/CRIAsset/ClockParadox.WyvernP.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
-        }
-    },
-    "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/ColorfulFlavor.Cansol.0.acb": {
-        "internalId": "1c19c0d64fbdec04f8fb0a1cad42e5d7",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 1657928859,
-        "data": null,
-        "depHash": 1657928859,
-        "primaryKey": "Assets/GameAssets/CRIAsset/ColorfulFlavor.Cansol.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
@@ -251,18 +251,6 @@
             "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
         }
     },
-    "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/LavenderLeaffeatLexi.VauBoy.0.acb": {
-        "internalId": "4da3533649a757e4d874069424b6b9f0",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 1444681747,
-        "data": null,
-        "depHash": 1444681747,
-        "primaryKey": "Assets/GameAssets/CRIAsset/LavenderLeaffeatLexi.VauBoy.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
-        }
-    },
     "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/MidnightFlux.ProjectG.0.acb": {
         "internalId": "9a01cc38701fa434a9011ceac7bbf097",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -383,18 +371,6 @@
             "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
         }
     },
-    "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/Revenant.Juggernaut.0.acb": {
-        "internalId": "5063dc2541aa9a048b9c737eca29d51d",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": -1692493846,
-        "data": null,
-        "depHash": -1692493846,
-        "primaryKey": "Assets/GameAssets/CRIAsset/Revenant.Juggernaut.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
-        }
-    },
     "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/ReversedZenith.Synzak.0.acb": {
         "internalId": "30185d3299bbc434f8621db6ed756ebd",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -402,18 +378,6 @@
         "data": null,
         "depHash": -45261352,
         "primaryKey": "Assets/GameAssets/CRIAsset/ReversedZenith.Synzak.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
-        }
-    },
-    "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/RuleTheWorld.VauBoy.0.acb": {
-        "internalId": "8dd73f2e6c1058843aa06821fdb48dfc",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": -390925962,
-        "data": null,
-        "depHash": -390925962,
-        "primaryKey": "Assets/GameAssets/CRIAsset/RuleTheWorld.VauBoy.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
@@ -450,18 +414,6 @@
         "data": null,
         "depHash": 1376358262,
         "primaryKey": "Assets/GameAssets/CRIAsset/Skyscape.Plum.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
-        }
-    },
-    "CriWare.Assets.CriAddressableAssetImpl-Assets/GameAssets/CRIAsset/SuperUniverseKnighthoodRemix.Knighthood.0.acb": {
-        "internalId": "4d5e250f8e5462649bbfcd8c3b749d72",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 2066342894,
-        "data": null,
-        "depHash": 2066342894,
-        "primaryKey": "Assets/GameAssets/CRIAsset/SuperUniverseKnighthoodRemix.Knighthood.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Addressables.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAddressableAssetImpl"
@@ -1091,18 +1043,6 @@
             "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
         }
     },
-    "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/AbsolutionPulse.nm.0.acb": {
-        "internalId": "c3851a0cac4084a4ba8dda582f84450f",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 270703391,
-        "data": null,
-        "depHash": 270703391,
-        "primaryKey": "Assets/GameAssets/CRIAsset/AbsolutionPulse.nm.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
-        }
-    },
     "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/ArcadeViruZ.AspidCat.0.acb": {
         "internalId": "6a461fae4a4cf1e43ae3288713154f4b",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -1158,18 +1098,6 @@
         "data": null,
         "depHash": -197531293,
         "primaryKey": "Assets/GameAssets/CRIAsset/ClockParadox.WyvernP.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
-        }
-    },
-    "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/ColorfulFlavor.Cansol.0.acb": {
-        "internalId": "1c19c0d64fbdec04f8fb0a1cad42e5d7",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 1657928859,
-        "data": null,
-        "depHash": 1657928859,
-        "primaryKey": "Assets/GameAssets/CRIAsset/ColorfulFlavor.Cansol.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
@@ -1307,18 +1235,6 @@
             "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
         }
     },
-    "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/LavenderLeaffeatLexi.VauBoy.0.acb": {
-        "internalId": "4da3533649a757e4d874069424b6b9f0",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 1444681747,
-        "data": null,
-        "depHash": 1444681747,
-        "primaryKey": "Assets/GameAssets/CRIAsset/LavenderLeaffeatLexi.VauBoy.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
-        }
-    },
     "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/MidnightFlux.ProjectG.0.acb": {
         "internalId": "9a01cc38701fa434a9011ceac7bbf097",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -1439,18 +1355,6 @@
             "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
         }
     },
-    "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/Revenant.Juggernaut.0.acb": {
-        "internalId": "5063dc2541aa9a048b9c737eca29d51d",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": -1692493846,
-        "data": null,
-        "depHash": -1692493846,
-        "primaryKey": "Assets/GameAssets/CRIAsset/Revenant.Juggernaut.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
-        }
-    },
     "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/ReversedZenith.Synzak.0.acb": {
         "internalId": "30185d3299bbc434f8621db6ed756ebd",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -1458,18 +1362,6 @@
         "data": null,
         "depHash": -45261352,
         "primaryKey": "Assets/GameAssets/CRIAsset/ReversedZenith.Synzak.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
-        }
-    },
-    "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/RuleTheWorld.VauBoy.0.acb": {
-        "internalId": "8dd73f2e6c1058843aa06821fdb48dfc",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": -390925962,
-        "data": null,
-        "depHash": -390925962,
-        "primaryKey": "Assets/GameAssets/CRIAsset/RuleTheWorld.VauBoy.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
@@ -1506,18 +1398,6 @@
         "data": null,
         "depHash": 1376358262,
         "primaryKey": "Assets/GameAssets/CRIAsset/Skyscape.Plum.0.acb",
-        "type": {
-            "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
-        }
-    },
-    "CriWare.Assets.CriAtomAcbAsset-Assets/GameAssets/CRIAsset/SuperUniverseKnighthoodRemix.Knighthood.0.acb": {
-        "internalId": "4d5e250f8e5462649bbfcd8c3b749d72",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": 2066342894,
-        "data": null,
-        "depHash": 2066342894,
-        "primaryKey": "Assets/GameAssets/CRIAsset/SuperUniverseKnighthoodRemix.Knighthood.0.acb",
         "type": {
             "m_AssemblyName": "CriMw.CriWare.Assets.Runtime, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "CriWare.Assets.CriAtomAcbAsset"
@@ -2558,9 +2438,9 @@
     "DifficultyColorInfo-AssetList": {
         "internalId": "9699777a339d78a4b8c6433185767d9d",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
+        "dependencyKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "data": null,
-        "depHash": -825914114,
+        "depHash": 1185376910,
         "primaryKey": "AssetList",
         "type": {
             "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -2570,9 +2450,9 @@
     "IllustrationInfo-AssetList": {
         "internalId": "9699777a339d78a4b8c6433185767d9d",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
+        "dependencyKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "data": null,
-        "depHash": -825914114,
+        "depHash": 1185376910,
         "primaryKey": "AssetList",
         "type": {
             "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -2582,21 +2462,33 @@
     "LevelInfo-AssetList": {
         "internalId": "9699777a339d78a4b8c6433185767d9d",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
+        "dependencyKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "data": null,
-        "depHash": -825914114,
+        "depHash": 1185376910,
         "primaryKey": "AssetList",
         "type": {
             "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "LevelInfo"
         }
     },
+    "MultiLanguageImage+SpriteFile-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "MultiLanguageImage+SpriteFile"
+        }
+    },
     "MusicInfo-AssetList": {
         "internalId": "9699777a339d78a4b8c6433185767d9d",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
+        "dependencyKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "data": null,
-        "depHash": -825914114,
+        "depHash": 1185376910,
         "primaryKey": "AssetList",
         "type": {
             "m_AssemblyName": "Assembly-CSharp, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -2999,6 +2891,30 @@
             "m_ClassName": "TMPro.TMP_StyleSheet"
         }
     },
+    "TMPro.VertexGradient-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "TMPro.VertexGradient"
+        }
+    },
+    "TMPro.VertexGradient-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "Unity.TextMeshPro, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "TMPro.VertexGradient"
+        }
+    },
     "UnityEngine.EventSystems.EventTrigger+Entry-SRDebugger/UI/Prefabs/PinnedUI": {
         "internalId": "SRDebugger/UI/Prefabs/PinnedUI",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -3102,6 +3018,30 @@
         "data": null,
         "depHash": 0,
         "primaryKey": "SRDebugger/UI/Prefabs/Tabs/System",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.ArgumentCache"
+        }
+    },
+    "UnityEngine.Events.ArgumentCache-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.ArgumentCache"
+        }
+    },
+    "UnityEngine.Events.ArgumentCache-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Events.ArgumentCache"
@@ -3311,6 +3251,30 @@
             "m_ClassName": "UnityEngine.Events.PersistentCallGroup"
         }
     },
+    "UnityEngine.Events.PersistentCallGroup-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.PersistentCallGroup"
+        }
+    },
+    "UnityEngine.Events.PersistentCallGroup-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.PersistentCallGroup"
+        }
+    },
     "UnityEngine.Events.PersistentListenerMode-SRDebugger/UI/Prefabs/BugReportSheet": {
         "internalId": "SRDebugger/UI/Prefabs/BugReportSheet",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -3393,6 +3357,78 @@
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Events.PersistentListenerMode"
+        }
+    },
+    "UnityEngine.Events.PersistentListenerMode-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.PersistentListenerMode"
+        }
+    },
+    "UnityEngine.Events.PersistentListenerMode-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.PersistentListenerMode"
+        }
+    },
+    "UnityEngine.Events.UnityEvent-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.UnityEvent"
+        }
+    },
+    "UnityEngine.Events.UnityEvent-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.UnityEvent"
+        }
+    },
+    "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
+        }
+    },
+    "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]"
         }
     },
     "UnityEngine.GameObject-RateMyApp": {
@@ -3618,6 +3654,30 @@
         "data": null,
         "depHash": 0,
         "primaryKey": "SRDebugger/UI/Prefabs/Trigger",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.GameObject"
+        }
+    },
+    "UnityEngine.GameObject-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.GameObject"
+        }
+    },
+    "UnityEngine.GameObject-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.GameObject"
@@ -3867,8 +3927,8 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-0075492b824fb8391fabbafe869409d8.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/0075492b824fb8391fabbafe869409d8.bundle",
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-0027f6c56aed5ebc57a308bcf4ccb931.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/0027f6c56aed5ebc57a308bcf4ccb931.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
         "dependencyKey": null,
         "data": {
@@ -3877,7 +3937,7 @@
             "data": null
         },
         "depHash": 0,
-        "primaryKey": "0075492b824fb8391fabbafe869409d8.bundle",
+        "primaryKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -3931,6 +3991,38 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-06da1f5496fe399900efc07e3e7cdb5f.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/06da1f5496fe399900efc07e3e7cdb5f.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "06da1f5496fe399900efc07e3e7cdb5f.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-080425c3234cd75039b466ffba0a12ff.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/080425c3234cd75039b466ffba0a12ff.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-0a7747c4cdc905127fd7214f972e513d.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/0a7747c4cdc905127fd7214f972e513d.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -3979,22 +4071,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-0cd154ac86de3c93fc93ad2938cdae7a.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/0cd154ac86de3c93fc93ad2938cdae7a.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "0cd154ac86de3c93fc93ad2938cdae7a.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-0db74d08f4b54cfea4fed6e9d3ea75e2.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/0db74d08f4b54cfea4fed6e9d3ea75e2.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -4038,6 +4114,22 @@
         },
         "depHash": 0,
         "primaryKey": "0e272e7640a0ae42ce2547ebdceeb847.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-0e80369c7e8028031d18ef7b917d0419.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/0e80369c7e8028031d18ef7b917d0419.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "0e80369c7e8028031d18ef7b917d0419.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -4235,22 +4327,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-16b38bdf503de401850849c7dc3a41ac.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/16b38bdf503de401850849c7dc3a41ac.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "16b38bdf503de401850849c7dc3a41ac.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-16cd5492ca18aecf142c7550eb8e1c58.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/16cd5492ca18aecf142c7550eb8e1c58.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -4374,22 +4450,6 @@
         },
         "depHash": 0,
         "primaryKey": "1bf0f8b07ebafa0044871bd33788ebb0.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-1d30d9cbb1a9d3b89665af570d0513df.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/1d30d9cbb1a9d3b89665af570d0513df.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "1d30d9cbb1a9d3b89665af570d0513df.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -4731,38 +4791,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-2c52fd98a8e9a2af273fbeea31eeb0a9.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/2c52fd98a8e9a2af273fbeea31eeb0a9.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "2c52fd98a8e9a2af273fbeea31eeb0a9.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-2c5c23312a54c95dc10b7dc5bf449fc4.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/2c5c23312a54c95dc10b7dc5bf449fc4.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "2c5c23312a54c95dc10b7dc5bf449fc4.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-2de0bfd2b704d5b8fd7417039d5a08ac.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/2de0bfd2b704d5b8fd7417039d5a08ac.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -4774,22 +4802,6 @@
         },
         "depHash": 0,
         "primaryKey": "2de0bfd2b704d5b8fd7417039d5a08ac.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-2de21cbe815cf99f8e97ac62fe893490.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/2de21cbe815cf99f8e97ac62fe893490.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "2de21cbe815cf99f8e97ac62fe893490.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -4955,6 +4967,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-34acecb6ba73c0c423614baa660ea731.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/34acecb6ba73c0c423614baa660ea731.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "34acecb6ba73c0c423614baa660ea731.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-3744ad9ed4fa0f357bab74047b3b5223.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/3744ad9ed4fa0f357bab74047b3b5223.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5067,22 +5095,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-3c48cc33b402f770b8da0aadcd89d04f.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/3c48cc33b402f770b8da0aadcd89d04f.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "3c48cc33b402f770b8da0aadcd89d04f.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-3c71606c52576536b6659ba445bff5ab.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/3c71606c52576536b6659ba445bff5ab.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5142,6 +5154,22 @@
         },
         "depHash": 0,
         "primaryKey": "3ec15af65fcca668b1e7d2bd55defb70.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-3ef8c5f2ffe52a1caf36a827a1971a49.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/3ef8c5f2ffe52a1caf36a827a1971a49.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "3ef8c5f2ffe52a1caf36a827a1971a49.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -5275,6 +5303,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-43ec2f180875e596972ff8c62ad07291.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/43ec2f180875e596972ff8c62ad07291.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "43ec2f180875e596972ff8c62ad07291.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-448acc1858a4105c11d8fe08b48c2fd0.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/448acc1858a4105c11d8fe08b48c2fd0.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5387,22 +5431,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-4d99176ede7cdeb1a291b97ccb5aefc2.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/4d99176ede7cdeb1a291b97ccb5aefc2.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "4d99176ede7cdeb1a291b97ccb5aefc2.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-4e857e4b11ebd959f5d72e90d86b2be8.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/4e857e4b11ebd959f5d72e90d86b2be8.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5419,22 +5447,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-4f079c4764881e9f0573b46e2248c779.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/4f079c4764881e9f0573b46e2248c779.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "4f079c4764881e9f0573b46e2248c779.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-50f8056fd9e3c8e6490c953c9764cdd6.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/50f8056fd9e3c8e6490c953c9764cdd6.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5446,6 +5458,22 @@
         },
         "depHash": 0,
         "primaryKey": "50f8056fd9e3c8e6490c953c9764cdd6.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5124aaf59915eaf1174230e9b54101fd.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5124aaf59915eaf1174230e9b54101fd.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "5124aaf59915eaf1174230e9b54101fd.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -5595,6 +5623,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5a48ba74a5a008a59fafa93ebe1f36e7.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5a48ba74a5a008a59fafa93ebe1f36e7.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "5a48ba74a5a008a59fafa93ebe1f36e7.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5aa028b9ae73234741e9cc110e16d322.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5aa028b9ae73234741e9cc110e16d322.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5622,6 +5666,22 @@
         },
         "depHash": 0,
         "primaryKey": "5ac86274d2c6fd3767209004d7fc6bfc.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5b9647edc618518c1c79618ff76a67ba.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5b9647edc618518c1c79618ff76a67ba.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "5b9647edc618518c1c79618ff76a67ba.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -5675,22 +5735,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5e067856f6776b2406e18b43d81ae386.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5e067856f6776b2406e18b43d81ae386.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "5e067856f6776b2406e18b43d81ae386.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5e6c4ff6b278e442971a3ac1ebdcff52.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5e6c4ff6b278e442971a3ac1ebdcff52.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5707,22 +5751,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5f018090c06c8b79f7690680adf727cc.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5f018090c06c8b79f7690680adf727cc.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "5f018090c06c8b79f7690680adf727cc.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-5fb2c52627abcf34a165fb6547a53513.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/5fb2c52627abcf34a165fb6547a53513.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5734,6 +5762,22 @@
         },
         "depHash": 0,
         "primaryKey": "5fb2c52627abcf34a165fb6547a53513.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-60d04595ec29caab7b50eeab4025ab42.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/60d04595ec29caab7b50eeab4025ab42.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "60d04595ec29caab7b50eeab4025ab42.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -5851,22 +5895,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-658043a8ca0ab13afa3266c339bb7efa.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/658043a8ca0ab13afa3266c339bb7efa.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "658043a8ca0ab13afa3266c339bb7efa.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-65c193fa1b9b0b7c1933a411d86e79af.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/65c193fa1b9b0b7c1933a411d86e79af.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5899,6 +5927,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-683c595c5997d9377aa91e9a78cd6078.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/683c595c5997d9377aa91e9a78cd6078.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "683c595c5997d9377aa91e9a78cd6078.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-6a0c8c1ea1e86ea7c39110cccf4a62ee.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/6a0c8c1ea1e86ea7c39110cccf4a62ee.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5915,22 +5959,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-6b401c6b4882d15bb89b0879a0127322.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/6b401c6b4882d15bb89b0879a0127322.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "6b401c6b4882d15bb89b0879a0127322.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-6b9eaa4612c271614bf0eb3b3af798cb.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/6b9eaa4612c271614bf0eb3b3af798cb.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -5942,6 +5970,22 @@
         },
         "depHash": 0,
         "primaryKey": "6b9eaa4612c271614bf0eb3b3af798cb.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-6ba48e1a29b31973b522bd5ee52b200d.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/6ba48e1a29b31973b522bd5ee52b200d.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "6ba48e1a29b31973b522bd5ee52b200d.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -6059,22 +6103,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-731daf599201b76f6f6c50f350ff573a.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/731daf599201b76f6f6c50f350ff573a.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "731daf599201b76f6f6c50f350ff573a.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-73262bcd3e950df7a0104d71006c6f94.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/73262bcd3e950df7a0104d71006c6f94.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -6155,6 +6183,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-764d1c739ead0045bf16e8628976ab7b.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/764d1c739ead0045bf16e8628976ab7b.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "764d1c739ead0045bf16e8628976ab7b.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-766180e1f304a3360753fd2f84ff6782.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/766180e1f304a3360753fd2f84ff6782.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -6166,6 +6210,22 @@
         },
         "depHash": 0,
         "primaryKey": "766180e1f304a3360753fd2f84ff6782.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-767123ff5b7fd0b08f50ba74375d09b5.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/767123ff5b7fd0b08f50ba74375d09b5.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "767123ff5b7fd0b08f50ba74375d09b5.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -6251,22 +6311,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-78d032d6278082ae232192d88c8cd2e5.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/78d032d6278082ae232192d88c8cd2e5.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "78d032d6278082ae232192d88c8cd2e5.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-7992317fac0eea17ee0d4b8801c89555.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/7992317fac0eea17ee0d4b8801c89555.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -6347,22 +6391,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-8225fb5cbb916aa71aa1788345a765df.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/8225fb5cbb916aa71aa1788345a765df.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "8225fb5cbb916aa71aa1788345a765df.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-82ff11568c302061a718c7c55b162b7b.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/82ff11568c302061a718c7c55b162b7b.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -6438,22 +6466,6 @@
         },
         "depHash": 0,
         "primaryKey": "84b520497fd238bd7a763cbfeb8ec9e2.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-85b75da5b9c513e6fa4227e71f2699da.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/85b75da5b9c513e6fa4227e71f2699da.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "85b75da5b9c513e6fa4227e71f2699da.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -6651,8 +6663,8 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-94b13ed80c2755b9a376f6dae22574d0.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/94b13ed80c2755b9a376f6dae22574d0.bundle",
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-9433616b60010bc94521bf985d001f45.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/9433616b60010bc94521bf985d001f45.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
         "dependencyKey": null,
         "data": {
@@ -6661,7 +6673,7 @@
             "data": null
         },
         "depHash": 0,
-        "primaryKey": "94b13ed80c2755b9a376f6dae22574d0.bundle",
+        "primaryKey": "9433616b60010bc94521bf985d001f45.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -6763,8 +6775,8 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-9bc926942cdb12672f0f76daf510f459.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/9bc926942cdb12672f0f76daf510f459.bundle",
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-9c2ba1805fc223313ba9f1480be570f2.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/9c2ba1805fc223313ba9f1480be570f2.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
         "dependencyKey": null,
         "data": {
@@ -6773,7 +6785,7 @@
             "data": null
         },
         "depHash": 0,
-        "primaryKey": "9bc926942cdb12672f0f76daf510f459.bundle",
+        "primaryKey": "9c2ba1805fc223313ba9f1480be570f2.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -6886,6 +6898,22 @@
         },
         "depHash": 0,
         "primaryKey": "a1202a4ddbc8ad7a9e78074aff33b409.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-a1a42a786bbe0ae3c2a13ab9bf30fc44.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/a1a42a786bbe0ae3c2a13ab9bf30fc44.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "a1a42a786bbe0ae3c2a13ab9bf30fc44.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -7035,6 +7063,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-a8972b437fd9dbcc49b780235ea7abab.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/a8972b437fd9dbcc49b780235ea7abab.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "a8972b437fd9dbcc49b780235ea7abab.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-a921773295ccff2c4ca0495f41f39c76.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/a921773295ccff2c4ca0495f41f39c76.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -7147,22 +7191,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-b4a289f0c3f1683069561ef1a36c9e02.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/b4a289f0c3f1683069561ef1a36c9e02.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "b4a289f0c3f1683069561ef1a36c9e02.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-b52b77edad28e24bb17b85c180e1ccaa.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/b52b77edad28e24bb17b85c180e1ccaa.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -7190,22 +7218,6 @@
         },
         "depHash": 0,
         "primaryKey": "b6508a6489051e9ef565b962732697c4.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-b9944be2cfb609315b84764c9164d611.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/b9944be2cfb609315b84764c9164d611.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "b9944be2cfb609315b84764c9164d611.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -7563,22 +7575,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-c74a56de946d70ca8afc6949c9e4746a.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/c74a56de946d70ca8afc6949c9e4746a.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "c74a56de946d70ca8afc6949c9e4746a.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-c857ad7d75c80199fc92db5e6913cfa0.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/c857ad7d75c80199fc92db5e6913cfa0.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -7686,22 +7682,6 @@
         },
         "depHash": 0,
         "primaryKey": "ce596da7b13eae444a0a1cf9241f51bb.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-cedf147e22d06d6539fda2d41f750e33.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/cedf147e22d06d6539fda2d41f750e33.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "cedf147e22d06d6539fda2d41f750e33.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -8507,22 +8487,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d14db037568b806ef2c0d1f4edbaa510.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d14db037568b806ef2c0d1f4edbaa510.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "d14db037568b806ef2c0d1f4edbaa510.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d31e3ec05aa1e16c42e2c82c9cda9202.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d31e3ec05aa1e16c42e2c82c9cda9202.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -8550,22 +8514,6 @@
         },
         "depHash": 0,
         "primaryKey": "d35dcf3f1865cda5643d470b1f9ef5c0.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d3985782a9e9d7ed25ee368e419599dd.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d3985782a9e9d7ed25ee368e419599dd.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "d3985782a9e9d7ed25ee368e419599dd.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -8635,22 +8583,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d65e784ee8ac6bb073be793e14b6888a.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d65e784ee8ac6bb073be793e14b6888a.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "d65e784ee8ac6bb073be793e14b6888a.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d7de9bc7bbabbe2dc04ed73777610f88.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d7de9bc7bbabbe2dc04ed73777610f88.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -8683,6 +8615,22 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d843ad21cd7d5131ee42c289c9c6480c.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d843ad21cd7d5131ee42c289c9c6480c.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "d843ad21cd7d5131ee42c289c9c6480c.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-d96297215e861fcd5437d5510db2c5cd.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/d96297215e861fcd5437d5510db2c5cd.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -8694,6 +8642,22 @@
         },
         "depHash": 0,
         "primaryKey": "d96297215e861fcd5437d5510db2c5cd.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-da5147e26c6727f7ff0981770ccde911.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/da5147e26c6727f7ff0981770ccde911.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "da5147e26c6727f7ff0981770ccde911.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -8726,6 +8690,22 @@
         },
         "depHash": 0,
         "primaryKey": "da7d129045766c38e11d9befc5a70fcf.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-dae9e2076b39a776cce7c907afba3769.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/dae9e2076b39a776cce7c907afba3769.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "dae9e2076b39a776cce7c907afba3769.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -8795,22 +8775,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-dd5e9925a11e83601e2ac63306833a43.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/dd5e9925a11e83601e2ac63306833a43.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "dd5e9925a11e83601e2ac63306833a43.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-de2191312beba539de6cd6e87832c35d.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/de2191312beba539de6cd6e87832c35d.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -8854,22 +8818,6 @@
         },
         "depHash": 0,
         "primaryKey": "e181367eab49d157c94ef1389702f0d3.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-e1e02d41efa430434f360eae08afb26e.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/e1e02d41efa430434f360eae08afb26e.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "e1e02d41efa430434f360eae08afb26e.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -8955,22 +8903,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-e7a5e80ea9cd49e12cff424d1221a6a6.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/e7a5e80ea9cd49e12cff424d1221a6a6.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "e7a5e80ea9cd49e12cff424d1221a6a6.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-e88381ac60ec9ef3a080fe1159f67ef9.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/e88381ac60ec9ef3a080fe1159f67ef9.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -9003,38 +8935,6 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-ecd52c9d8c35fdfc8db465710c268e2f.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/ecd52c9d8c35fdfc8db465710c268e2f.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "ecd52c9d8c35fdfc8db465710c268e2f.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-edd1b6e85ad1013092b3c9045f89ed3f.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/edd1b6e85ad1013092b3c9045f89ed3f.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "edd1b6e85ad1013092b3c9045f89ed3f.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
     "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-eed8676c762fa15a07761ad1659c1a95.bundle": {
         "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/eed8676c762fa15a07761ad1659c1a95.bundle",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
@@ -9046,6 +8946,22 @@
         },
         "depHash": 0,
         "primaryKey": "eed8676c762fa15a07761ad1659c1a95.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-eef81b0c38772e24ed922798a70d33cf.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/eef81b0c38772e24ed922798a70d33cf.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "eef81b0c38772e24ed922798a70d33cf.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -9078,6 +8994,22 @@
         },
         "depHash": 0,
         "primaryKey": "effec88214a0a079f6ceb05dfc6dad2b.bundle",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-f057c9b7bc77017a6e3ee1ad5db886bc.bundle": {
+        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/f057c9b7bc77017a6e3ee1ad5db886bc.bundle",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
+        "dependencyKey": null,
+        "data": {
+            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
+            "data": null
+        },
+        "depHash": 0,
+        "primaryKey": "f057c9b7bc77017a6e3ee1ad5db886bc.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -9142,22 +9074,6 @@
         },
         "depHash": 0,
         "primaryKey": "f5e6a29deee395368548ecab351275f2.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-f660cb73ab8a9a2491f99d952dd42f09.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/f660cb73ab8a9a2491f99d952dd42f09.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "f660cb73ab8a9a2491f99d952dd42f09.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -9254,22 +9170,6 @@
         },
         "depHash": 0,
         "primaryKey": "fc3f2ddcfc9a8c622202e3d318f29e7b.bundle",
-        "type": {
-            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
-        }
-    },
-    "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource-fde5b962d094537cc2ef2e9e61f382bb.bundle": {
-        "internalId": "http://rizastcdn.pigeongames.cn/default/iOS/fde5b962d094537cc2ef2e9e61f382bb.bundle",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleProvider",
-        "dependencyKey": null,
-        "data": {
-            "assemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "className": "UnityEngine.ResourceManagement.ResourceProviders.AssetBundleRequestOptions",
-            "data": null
-        },
-        "depHash": 0,
-        "primaryKey": "fde5b962d094537cc2ef2e9e61f382bb.bundle",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.IAssetBundleResource"
@@ -9431,13 +9331,25 @@
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
         }
     },
-    "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance-eventScene.starterEvent": {
-        "internalId": "59bb044e918a28947adc603b09d0d0b5",
+    "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance-event.starterEvent.main": {
+        "internalId": "603f04b3969c2b14092ae3f95dabab32",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "1d30d9cbb1a9d3b89665af570d0513df.bundle",
+        "dependencyKey": "683c595c5997d9377aa91e9a78cd6078.bundle",
         "data": null,
-        "depHash": -1914494644,
-        "primaryKey": "eventScene.starterEvent",
+        "depHash": -67987482,
+        "primaryKey": "event.starterEvent.main",
+        "type": {
+            "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
+        }
+    },
+    "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance-event.supportUsEvent.main": {
+        "internalId": "20bfcbd87d7ac88429a1238e9d12524a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "eef81b0c38772e24ed922798a70d33cf.bundle",
+        "data": null,
+        "depHash": 1759778119,
+        "primaryKey": "event.supportUsEvent.main",
         "type": {
             "m_AssemblyName": "Unity.ResourceManager, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
@@ -9755,30 +9667,6 @@
             "m_ClassName": "UnityEngine.Sprite"
         }
     },
-    "UnityEngine.Sprite-illustration.AbsolutionPulse.nm.0": {
-        "internalId": "393f2a26369367d4eaeb452c7037a282",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "4d99176ede7cdeb1a291b97ccb5aefc2.bundle",
-        "data": null,
-        "depHash": 1735513131,
-        "primaryKey": "illustration.AbsolutionPulse.nm.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.AbsolutionPulse.nm.0.HiRes": {
-        "internalId": "cf94eae4706be6b40893d8de79681153",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "16b38bdf503de401850849c7dc3a41ac.bundle",
-        "data": null,
-        "depHash": 1152840124,
-        "primaryKey": "illustration.AbsolutionPulse.nm.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
     "UnityEngine.Sprite-illustration.ArcadeViruZ.AspidCat.0": {
         "internalId": "d8663221d39d673498b5a092aa77aef3",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -9894,30 +9782,6 @@
         "data": null,
         "depHash": -1774827776,
         "primaryKey": "illustration.ClockParadox.WyvernP.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.ColorfulFlavor.Cansol.0": {
-        "internalId": "f3b3b54305052e54fb54f83776fff5ec",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "3c48cc33b402f770b8da0aadcd89d04f.bundle",
-        "data": null,
-        "depHash": -125886641,
-        "primaryKey": "illustration.ColorfulFlavor.Cansol.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.ColorfulFlavor.Cansol.0.HiRes": {
-        "internalId": "543c5ed71a2b84d4b9ec6dcd75b6ef18",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "85b75da5b9c513e6fa4227e71f2699da.bundle",
-        "data": null,
-        "depHash": 1147186707,
-        "primaryKey": "illustration.ColorfulFlavor.Cansol.0.HiRes",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Sprite"
@@ -10187,30 +10051,6 @@
             "m_ClassName": "UnityEngine.Sprite"
         }
     },
-    "UnityEngine.Sprite-illustration.LavenderLeaffeatLexi.VauBoy.0": {
-        "internalId": "b2d1b0ba954ab444585d9e34a18a196f",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d14db037568b806ef2c0d1f4edbaa510.bundle",
-        "data": null,
-        "depHash": -1202785470,
-        "primaryKey": "illustration.LavenderLeaffeatLexi.VauBoy.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.LavenderLeaffeatLexi.VauBoy.0.HiRes": {
-        "internalId": "da23367bdc6f91747a96f0aac120df77",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "5e067856f6776b2406e18b43d81ae386.bundle",
-        "data": null,
-        "depHash": 1345387317,
-        "primaryKey": "illustration.LavenderLeaffeatLexi.VauBoy.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
     "UnityEngine.Sprite-illustration.MidnightFlux.ProjectG.0": {
         "internalId": "b58c5a046aeeb8c48a57aaa7c717fb9b",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -10451,30 +10291,6 @@
             "m_ClassName": "UnityEngine.Sprite"
         }
     },
-    "UnityEngine.Sprite-illustration.Revenant.Juggernaut.0": {
-        "internalId": "fb86d2b75f9754c4582148188347ff93",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "6b401c6b4882d15bb89b0879a0127322.bundle",
-        "data": null,
-        "depHash": -1604591519,
-        "primaryKey": "illustration.Revenant.Juggernaut.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.Revenant.Juggernaut.0.HiRes": {
-        "internalId": "dc390ced90e91f64cadcc565c1002bee",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "fde5b962d094537cc2ef2e9e61f382bb.bundle",
-        "data": null,
-        "depHash": 460964913,
-        "primaryKey": "illustration.Revenant.Juggernaut.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
     "UnityEngine.Sprite-illustration.ReversedZenith.Synzak.0": {
         "internalId": "0abc9e75819107945b277eb48893469c",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -10494,30 +10310,6 @@
         "data": null,
         "depHash": -897824874,
         "primaryKey": "illustration.ReversedZenith.Synzak.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.RuleTheWorld.VauBoy.0": {
-        "internalId": "f643789ec8fc79e4ab96872cd6f1239a",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "b9944be2cfb609315b84764c9164d611.bundle",
-        "data": null,
-        "depHash": -1637289400,
-        "primaryKey": "illustration.RuleTheWorld.VauBoy.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.RuleTheWorld.VauBoy.0.HiRes": {
-        "internalId": "09a8ff8fc9bb1ef4785b5e8e2533dbae",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "dd5e9925a11e83601e2ac63306833a43.bundle",
-        "data": null,
-        "depHash": -442815724,
-        "primaryKey": "illustration.RuleTheWorld.VauBoy.0.HiRes",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Sprite"
@@ -10590,30 +10382,6 @@
         "data": null,
         "depHash": -985142244,
         "primaryKey": "illustration.Skyscape.Plum.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.SuperUniverseKnighthoodRemix.Knighthood.0": {
-        "internalId": "bbbc96f6fcdc2a64888f78a6f9b87c29",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "5f018090c06c8b79f7690680adf727cc.bundle",
-        "data": null,
-        "depHash": -972000456,
-        "primaryKey": "illustration.SuperUniverseKnighthoodRemix.Knighthood.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Sprite"
-        }
-    },
-    "UnityEngine.Sprite-illustration.SuperUniverseKnighthoodRemix.Knighthood.0.HiRes": {
-        "internalId": "e74b33d01b6e98e4a85bb196666ca24c",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "ecd52c9d8c35fdfc8db465710c268e2f.bundle",
-        "data": null,
-        "depHash": -704771344,
-        "primaryKey": "illustration.SuperUniverseKnighthoodRemix.Knighthood.0.HiRes",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Sprite"
@@ -11195,6 +10963,18 @@
             "m_ClassName": "UnityEngine.TextAsset"
         }
     },
+    "UnityEngine.TextAsset-chart.Enneaquest.SEPHID.0.HD": {
+        "internalId": "6862c7f648f3645458e58ce8ba279bfa",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "9c2ba1805fc223313ba9f1480be570f2.bundle",
+        "data": null,
+        "depHash": 534891842,
+        "primaryKey": "chart.Enneaquest.SEPHID.0.HD",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.TextAsset"
+        }
+    },
     "UnityEngine.TextAsset-chart.FORTALiCE.ZxNX.0.EZ": {
         "internalId": "6ff0a829820a74666af62904bbe28466",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -11447,12 +11227,36 @@
             "m_ClassName": "UnityEngine.TextAsset"
         }
     },
+    "UnityEngine.TextAsset-chart.LavenderLeaffeatLexi.VauBoy.0.EZ": {
+        "internalId": "56aa3969f651e48cf88a15393e8ff10d",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "60d04595ec29caab7b50eeab4025ab42.bundle",
+        "data": null,
+        "depHash": 1067228748,
+        "primaryKey": "chart.LavenderLeaffeatLexi.VauBoy.0.EZ",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.TextAsset"
+        }
+    },
+    "UnityEngine.TextAsset-chart.LavenderLeaffeatLexi.VauBoy.0.HD": {
+        "internalId": "f0510034f248647719f618c71149ce2f",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "3ef8c5f2ffe52a1caf36a827a1971a49.bundle",
+        "data": null,
+        "depHash": -1057556322,
+        "primaryKey": "chart.LavenderLeaffeatLexi.VauBoy.0.HD",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.TextAsset"
+        }
+    },
     "UnityEngine.TextAsset-chart.LavenderLeaffeatLexi.VauBoy.0.IN": {
         "internalId": "f994f6a76b4ad48f19fe9d14c8c4cba6",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "731daf599201b76f6f6c50f350ff573a.bundle",
+        "dependencyKey": "5a48ba74a5a008a59fafa93ebe1f36e7.bundle",
         "data": null,
-        "depHash": 491197459,
+        "depHash": 2131542096,
         "primaryKey": "chart.LavenderLeaffeatLexi.VauBoy.0.IN",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -11810,9 +11614,9 @@
     "UnityEngine.TextAsset-chart.RestrictedAccess.Knighthood.0.IN": {
         "internalId": "3f365390a226e4c8e9bc3edd72fb47e4",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "0cd154ac86de3c93fc93ad2938cdae7a.bundle",
+        "dependencyKey": "5b9647edc618518c1c79618ff76a67ba.bundle",
         "data": null,
-        "depHash": 348819313,
+        "depHash": -702382064,
         "primaryKey": "chart.RestrictedAccess.Knighthood.0.IN",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -11966,9 +11770,9 @@
     "UnityEngine.TextAsset-chart.SuperUniverseKnighthoodRemix.Knighthood.0.EZ": {
         "internalId": "803c8c19946a04ce091c3ec0eab78e5f",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "2de21cbe815cf99f8e97ac62fe893490.bundle",
+        "dependencyKey": "da5147e26c6727f7ff0981770ccde911.bundle",
         "data": null,
-        "depHash": -650336550,
+        "depHash": -501661617,
         "primaryKey": "chart.SuperUniverseKnighthoodRemix.Knighthood.0.EZ",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -11978,9 +11782,9 @@
     "UnityEngine.TextAsset-chart.SuperUniverseKnighthoodRemix.Knighthood.0.HD": {
         "internalId": "059fea378550e47719a219efa91d15da",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "cedf147e22d06d6539fda2d41f750e33.bundle",
+        "dependencyKey": "43ec2f180875e596972ff8c62ad07291.bundle",
         "data": null,
-        "depHash": 1907438655,
+        "depHash": -2059471576,
         "primaryKey": "chart.SuperUniverseKnighthoodRemix.Knighthood.0.HD",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12071,12 +11875,36 @@
             "m_ClassName": "UnityEngine.TextAsset"
         }
     },
+    "UnityEngine.TextAsset-chart.TheLastPage.ARForest.0.EZ": {
+        "internalId": "52909b165ef604f54bdbeef368f32f59",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "f057c9b7bc77017a6e3ee1ad5db886bc.bundle",
+        "data": null,
+        "depHash": 1850706327,
+        "primaryKey": "chart.TheLastPage.ARForest.0.EZ",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.TextAsset"
+        }
+    },
+    "UnityEngine.TextAsset-chart.TheLastPage.ARForest.0.HD": {
+        "internalId": "14866da0cf0bd4e399d9410fd8de9c68",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "d843ad21cd7d5131ee42c289c9c6480c.bundle",
+        "data": null,
+        "depHash": 924479903,
+        "primaryKey": "chart.TheLastPage.ARForest.0.HD",
+        "type": {
+            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.TextAsset"
+        }
+    },
     "UnityEngine.TextAsset-chart.TheLastPage.ARForest.0.IN": {
         "internalId": "a6d15a43bea5a4521bb9f12e40b162d8",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "0075492b824fb8391fabbafe869409d8.bundle",
+        "dependencyKey": "dae9e2076b39a776cce7c907afba3769.bundle",
         "data": null,
-        "depHash": -1198767709,
+        "depHash": -1024764000,
         "primaryKey": "chart.TheLastPage.ARForest.0.IN",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12158,9 +11986,9 @@
     "UnityEngine.TextAsset-chart.Vrtuaresort.seatrus.0.EZ": {
         "internalId": "04f96677540c8449e886077c90d5eb19",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d3985782a9e9d7ed25ee368e419599dd.bundle",
+        "dependencyKey": "34acecb6ba73c0c423614baa660ea731.bundle",
         "data": null,
-        "depHash": 1530630480,
+        "depHash": -1567501933,
         "primaryKey": "chart.Vrtuaresort.seatrus.0.EZ",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12242,9 +12070,9 @@
     "UnityEngine.TextAsset-local.en": {
         "internalId": "5ec7e3709ebf0eb479571b7e9d7b0f5a",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "b4a289f0c3f1683069561ef1a36c9e02.bundle",
+        "dependencyKey": "9433616b60010bc94521bf985d001f45.bundle",
         "data": null,
-        "depHash": 864274804,
+        "depHash": -263191797,
         "primaryKey": "local.en",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12254,9 +12082,9 @@
     "UnityEngine.TextAsset-local.ja": {
         "internalId": "9c4a891ea2d87bf40863b21c8b82ae70",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "4f079c4764881e9f0573b46e2248c779.bundle",
+        "dependencyKey": "a8972b437fd9dbcc49b780235ea7abab.bundle",
         "data": null,
-        "depHash": -1881582115,
+        "depHash": -745468801,
         "primaryKey": "local.ja",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12266,9 +12094,9 @@
     "UnityEngine.TextAsset-local.zh-Hans": {
         "internalId": "f8ab48821d063cc4b8d8945598d82690",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "edd1b6e85ad1013092b3c9045f89ed3f.bundle",
+        "dependencyKey": "06da1f5496fe399900efc07e3e7cdb5f.bundle",
         "data": null,
-        "depHash": -216150034,
+        "depHash": 526185128,
         "primaryKey": "local.zh-Hans",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12278,9 +12106,9 @@
     "UnityEngine.TextAsset-local.zh-Hant": {
         "internalId": "f66a610d10de933418c3b2385eea2b24",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "658043a8ca0ab13afa3266c339bb7efa.bundle",
+        "dependencyKey": "6ba48e1a29b31973b522bd5ee52b200d.bundle",
         "data": null,
-        "depHash": 1610822464,
+        "depHash": -924436897,
         "primaryKey": "local.zh-Hant",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -12455,30 +12283,6 @@
             "m_ClassName": "UnityEngine.Texture2D"
         }
     },
-    "UnityEngine.Texture2D-illustration.AbsolutionPulse.nm.0": {
-        "internalId": "393f2a26369367d4eaeb452c7037a282",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "4d99176ede7cdeb1a291b97ccb5aefc2.bundle",
-        "data": null,
-        "depHash": 1735513131,
-        "primaryKey": "illustration.AbsolutionPulse.nm.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.AbsolutionPulse.nm.0.HiRes": {
-        "internalId": "cf94eae4706be6b40893d8de79681153",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "16b38bdf503de401850849c7dc3a41ac.bundle",
-        "data": null,
-        "depHash": 1152840124,
-        "primaryKey": "illustration.AbsolutionPulse.nm.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
     "UnityEngine.Texture2D-illustration.ArcadeViruZ.AspidCat.0": {
         "internalId": "d8663221d39d673498b5a092aa77aef3",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -12594,30 +12398,6 @@
         "data": null,
         "depHash": -1774827776,
         "primaryKey": "illustration.ClockParadox.WyvernP.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.ColorfulFlavor.Cansol.0": {
-        "internalId": "f3b3b54305052e54fb54f83776fff5ec",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "3c48cc33b402f770b8da0aadcd89d04f.bundle",
-        "data": null,
-        "depHash": -125886641,
-        "primaryKey": "illustration.ColorfulFlavor.Cansol.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.ColorfulFlavor.Cansol.0.HiRes": {
-        "internalId": "543c5ed71a2b84d4b9ec6dcd75b6ef18",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "85b75da5b9c513e6fa4227e71f2699da.bundle",
-        "data": null,
-        "depHash": 1147186707,
-        "primaryKey": "illustration.ColorfulFlavor.Cansol.0.HiRes",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Texture2D"
@@ -12887,30 +12667,6 @@
             "m_ClassName": "UnityEngine.Texture2D"
         }
     },
-    "UnityEngine.Texture2D-illustration.LavenderLeaffeatLexi.VauBoy.0": {
-        "internalId": "b2d1b0ba954ab444585d9e34a18a196f",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "d14db037568b806ef2c0d1f4edbaa510.bundle",
-        "data": null,
-        "depHash": -1202785470,
-        "primaryKey": "illustration.LavenderLeaffeatLexi.VauBoy.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.LavenderLeaffeatLexi.VauBoy.0.HiRes": {
-        "internalId": "da23367bdc6f91747a96f0aac120df77",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "5e067856f6776b2406e18b43d81ae386.bundle",
-        "data": null,
-        "depHash": 1345387317,
-        "primaryKey": "illustration.LavenderLeaffeatLexi.VauBoy.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
     "UnityEngine.Texture2D-illustration.MidnightFlux.ProjectG.0": {
         "internalId": "b58c5a046aeeb8c48a57aaa7c717fb9b",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -13151,30 +12907,6 @@
             "m_ClassName": "UnityEngine.Texture2D"
         }
     },
-    "UnityEngine.Texture2D-illustration.Revenant.Juggernaut.0": {
-        "internalId": "fb86d2b75f9754c4582148188347ff93",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "6b401c6b4882d15bb89b0879a0127322.bundle",
-        "data": null,
-        "depHash": -1604591519,
-        "primaryKey": "illustration.Revenant.Juggernaut.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.Revenant.Juggernaut.0.HiRes": {
-        "internalId": "dc390ced90e91f64cadcc565c1002bee",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "fde5b962d094537cc2ef2e9e61f382bb.bundle",
-        "data": null,
-        "depHash": 460964913,
-        "primaryKey": "illustration.Revenant.Juggernaut.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
     "UnityEngine.Texture2D-illustration.ReversedZenith.Synzak.0": {
         "internalId": "0abc9e75819107945b277eb48893469c",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
@@ -13194,30 +12926,6 @@
         "data": null,
         "depHash": -897824874,
         "primaryKey": "illustration.ReversedZenith.Synzak.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.RuleTheWorld.VauBoy.0": {
-        "internalId": "f643789ec8fc79e4ab96872cd6f1239a",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "b9944be2cfb609315b84764c9164d611.bundle",
-        "data": null,
-        "depHash": -1637289400,
-        "primaryKey": "illustration.RuleTheWorld.VauBoy.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.RuleTheWorld.VauBoy.0.HiRes": {
-        "internalId": "09a8ff8fc9bb1ef4785b5e8e2533dbae",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "dd5e9925a11e83601e2ac63306833a43.bundle",
-        "data": null,
-        "depHash": -442815724,
-        "primaryKey": "illustration.RuleTheWorld.VauBoy.0.HiRes",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Texture2D"
@@ -13290,30 +12998,6 @@
         "data": null,
         "depHash": -985142244,
         "primaryKey": "illustration.Skyscape.Plum.0.HiRes",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.SuperUniverseKnighthoodRemix.Knighthood.0": {
-        "internalId": "bbbc96f6fcdc2a64888f78a6f9b87c29",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "5f018090c06c8b79f7690680adf727cc.bundle",
-        "data": null,
-        "depHash": -972000456,
-        "primaryKey": "illustration.SuperUniverseKnighthoodRemix.Knighthood.0",
-        "type": {
-            "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
-            "m_ClassName": "UnityEngine.Texture2D"
-        }
-    },
-    "UnityEngine.Texture2D-illustration.SuperUniverseKnighthoodRemix.Knighthood.0.HiRes": {
-        "internalId": "e74b33d01b6e98e4a85bb196666ca24c",
-        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "ecd52c9d8c35fdfc8db465710c268e2f.bundle",
-        "data": null,
-        "depHash": -704771344,
-        "primaryKey": "illustration.SuperUniverseKnighthoodRemix.Knighthood.0.HiRes",
         "type": {
             "m_AssemblyName": "UnityEngine.CoreModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.Texture2D"
@@ -13667,6 +13351,30 @@
             "m_ClassName": "UnityEngine.UI.AnimationTriggers"
         }
     },
+    "UnityEngine.UI.AnimationTriggers-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.AnimationTriggers"
+        }
+    },
+    "UnityEngine.UI.AnimationTriggers-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.AnimationTriggers"
+        }
+    },
     "UnityEngine.UI.Button+ButtonClickedEvent-SRDebugger/UI/Prefabs/BugReportSheet": {
         "internalId": "SRDebugger/UI/Prefabs/BugReportSheet",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -13794,6 +13502,30 @@
         "data": null,
         "depHash": 0,
         "primaryKey": "SRDebugger/UI/Prefabs/Trigger",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.Button+ButtonClickedEvent"
+        }
+    },
+    "UnityEngine.UI.Button+ButtonClickedEvent-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.Button+ButtonClickedEvent"
+        }
+    },
+    "UnityEngine.UI.Button+ButtonClickedEvent-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
         "type": {
             "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.UI.Button+ButtonClickedEvent"
@@ -13979,6 +13711,30 @@
             "m_ClassName": "UnityEngine.UI.ColorBlock"
         }
     },
+    "UnityEngine.UI.ColorBlock-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.ColorBlock"
+        }
+    },
+    "UnityEngine.UI.ColorBlock-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.ColorBlock"
+        }
+    },
     "UnityEngine.UI.FontData-SRDebugger/UI/Prefabs/BugReportPopover": {
         "internalId": "SRDebugger/UI/Prefabs/BugReportPopover",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -14154,6 +13910,18 @@
         "data": null,
         "depHash": 0,
         "primaryKey": "SRDebugger/UI/Prefabs/Tabs/System",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.FontData"
+        }
+    },
+    "UnityEngine.UI.FontData-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
         "type": {
             "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.UI.FontData"
@@ -14495,6 +14263,30 @@
             "m_ClassName": "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent"
         }
     },
+    "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent"
+        }
+    },
+    "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent"
+        }
+    },
     "UnityEngine.UI.Navigation-SRDebugger/UI/Prefabs/BugReportSheet": {
         "internalId": "SRDebugger/UI/Prefabs/BugReportSheet",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -14670,6 +14462,30 @@
         "data": null,
         "depHash": 0,
         "primaryKey": "SRDebugger/UI/Prefabs/Trigger",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.Navigation"
+        }
+    },
+    "UnityEngine.UI.Navigation-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.Navigation"
+        }
+    },
+    "UnityEngine.UI.Navigation-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
         "type": {
             "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
             "m_ClassName": "UnityEngine.UI.Navigation"
@@ -14999,6 +14815,30 @@
             "m_ClassName": "UnityEngine.UI.SpriteState"
         }
     },
+    "UnityEngine.UI.SpriteState-event.starterEvent.card": {
+        "internalId": "01a2340d9fe127d4db08cd5cc936f265",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "080425c3234cd75039b466ffba0a12ff.bundle",
+        "data": null,
+        "depHash": -144156942,
+        "primaryKey": "event.starterEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.SpriteState"
+        }
+    },
+    "UnityEngine.UI.SpriteState-event.supportUsEvent.card": {
+        "internalId": "8b8e6aa6734f3ab40972b16717bd4c4a",
+        "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
+        "dependencyKey": "0027f6c56aed5ebc57a308bcf4ccb931.bundle",
+        "data": null,
+        "depHash": 235423672,
+        "primaryKey": "event.supportUsEvent.card",
+        "type": {
+            "m_AssemblyName": "UnityEngine.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null",
+            "m_ClassName": "UnityEngine.UI.SpriteState"
+        }
+    },
     "UnityEngine.UI.Toggle+ToggleEvent-SRDebugger/UI/Prefabs/Options/ActionOption": {
         "internalId": "SRDebugger/UI/Prefabs/Options/ActionOption",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.LegacyResourcesProvider",
@@ -15134,9 +14974,9 @@
     "UnityEngine.Video.VideoClip-video.tutorial.en": {
         "internalId": "927301ff9425caa4c9e97941df00f951",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "9bc926942cdb12672f0f76daf510f459.bundle",
+        "dependencyKey": "a1a42a786bbe0ae3c2a13ab9bf30fc44.bundle",
         "data": null,
-        "depHash": 1263949421,
+        "depHash": -1457313831,
         "primaryKey": "video.tutorial.en",
         "type": {
             "m_AssemblyName": "UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -15146,9 +14986,9 @@
     "UnityEngine.Video.VideoClip-video.tutorial.ja": {
         "internalId": "90dbef6c2daeb804dad9a331e79d5b2e",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "2c5c23312a54c95dc10b7dc5bf449fc4.bundle",
+        "dependencyKey": "764d1c739ead0045bf16e8628976ab7b.bundle",
         "data": null,
-        "depHash": 583342660,
+        "depHash": 1748956461,
         "primaryKey": "video.tutorial.ja",
         "type": {
             "m_AssemblyName": "UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -15158,9 +14998,9 @@
     "UnityEngine.Video.VideoClip-video.tutorial.zh-Hans": {
         "internalId": "d70f884dd80f5de49895eb302b7f4dac",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "8225fb5cbb916aa71aa1788345a765df.bundle",
+        "dependencyKey": "0e80369c7e8028031d18ef7b917d0419.bundle",
         "data": null,
-        "depHash": 1190317486,
+        "depHash": -1045894988,
         "primaryKey": "video.tutorial.zh-Hans",
         "type": {
             "m_AssemblyName": "UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
@@ -15170,9 +15010,9 @@
     "UnityEngine.Video.VideoClip-video.tutorial.zh-Hant": {
         "internalId": "1e1d0315781828b4cb98be346a38eac3",
         "providerId": "UnityEngine.ResourceManagement.ResourceProviders.BundledAssetProvider",
-        "dependencyKey": "78d032d6278082ae232192d88c8cd2e5.bundle",
+        "dependencyKey": "5124aaf59915eaf1174230e9b54101fd.bundle",
         "data": null,
-        "depHash": -1194595678,
+        "depHash": 1390535920,
         "primaryKey": "video.tutorial.zh-Hant",
         "type": {
             "m_AssemblyName": "UnityEngine.VideoModule, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null",
