@@ -298,6 +298,13 @@
         ],
         "key": "chart.ArcadeViruZ.AspidCat.0.HD"
     },
+    "05870e178e04201049344c4aef2a1245.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.TheLastPage.ARForest.0.HiRes"
+    },
     "0a7747c4cdc905127fd7214f972e513d.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -336,12 +343,24 @@
         ],
         "key": "video.tutorial.zh-Hans"
     },
+    "1008d8101a1c5c68b29930bb57fc67a0.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "local.zh-Hant"
+    },
     "117202c23bfd824f3853af8bd518b3d4.bundle": {
         "class": [
             "UnityEngine.Texture2D",
             "UnityEngine.Sprite"
         ],
         "key": "illustration.RIP.eicateve.0.HiRes"
+    },
+    "11929bd498c4c79205e5fe12d21bf0a2.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Enneaquest.SEPHID.0.HD"
     },
     "1222c37298e3b72ffed3e37f77795b5a.bundle": {
         "class": [
@@ -386,300 +405,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.NOONEYESMAN.MYUKKE.0.EZ"
-    },
-    "38922496": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Contact.NeutralMoonMK.0.acb"
-    },
-    "62901344": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_MainMenu_BGM_Loop_1.acb"
-    },
-    "73545571": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_main_button_SetUp_1.acb"
-    },
-    "98251399": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_play_soundfx_crash_2.acb"
-    },
-    "122650098": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_soundfx_connectionsuccessful_1.acb"
-    },
-    "198942503": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Gleam.Uske.0.acb"
-    },
-    "267540200": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_common_1.acb"
-    },
-    "425801636": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_button_ReadyByOthers_1.acb"
-    },
-    "507358969": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Empire.416.0.acb"
-    },
-    "514086198": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_play_soundfx_crash_1.acb"
-    },
-    "533098392": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_main_button_left_1.acb"
-    },
-    "590475800": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/ILLEGALLEGACY.seatrus.0.acb"
-    },
-    "682918917": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/macrowav.dandeless.0.acb"
-    },
-    "820706235": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Bamboo.rissyuu.0.acb"
-    },
-    "831466577": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/AuthenticGamever.Rukadesunowheretogo.0.acb"
-    },
-    "876174783": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Tempest.Plum.0.acb"
-    },
-    "937196668": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/JourneyToTheRainbows.Ardolf.0.acb"
-    },
-    "990214481": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_soundfx_Countdown_1.acb"
-    },
-    "1087494694": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_PlayEnding_Soundfx_Newbest_1.acb"
-    },
-    "1231738306": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/ArcadeViruZ.AspidCat.0.acb"
-    },
-    "1299130814": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/TheNextArcady.SEPHID.0.acb"
-    },
-    "1323493897": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_PlayEnding_button_lastfx_1.acb"
-    },
-    "1327690154": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_shop_button_coinroll_2.acb"
-    },
-    "1376358262": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Skyscape.Plum.0.acb"
-    },
-    "1390900202": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_ExchangeCards_button_CardReceived_1.acb"
-    },
-    "1391375297": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/SwingSweetTweeDance.Uske.0.acb"
-    },
-    "1398620883": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/LINKLINS.Halv.0.acb"
-    },
-    "1406526948": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_play_button_pause_1.acb"
-    },
-    "1420461794": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_ExchangeCards_button_exchange_1.acb"
-    },
-    "1444681747": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/LavenderLeaffeatLexi.VauBoy.0.acb"
-    },
-    "1512607240": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/FRIEND.DAAN.0.acb"
-    },
-    "1665744930": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/RestrictedAccess.Knighthood.0.acb"
-    },
-    "1709583360": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/FORTALiCE.ZxNX.0.acb"
-    },
-    "1727186430": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Polygons.Riya.0.acb"
-    },
-    "1872351188": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_level_tap_1.acb"
-    },
-    "1900241569": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/Vrtuaresort.seatrus.0.acb"
-    },
-    "1924670551": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_PlayEnding_soundfx_1.acb"
-    },
-    "1984265843": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_soundfx_ChooseASong_1.acb"
-    },
-    "2066342894": {
-        "class": [
-            "CriWare.Assets.CriAddressableAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/SuperUniverseKnighthoodRemix.Knighthood.0.acb"
-    },
-    "2094828827": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_button_Connecting_1.acb"
-    },
-    "2141422981": {
-        "class": [
-            "CriWare.Assets.CriLocalAddressablesAssetImpl",
-            "CriWare.Assets.CriAtomAcbAsset"
-        ],
-        "key": "Assets/GameAssets/CRIAsset/rizline_main_button_BackToMainMenu_1.acb"
-    },
-    "05870e178e04201049344c4aef2a1245.bundle": {
-        "class": [
-            "UnityEngine.Texture2D",
-            "UnityEngine.Sprite"
-        ],
-        "key": "illustration.TheLastPage.ARForest.0.HiRes"
     },
     "17e231fa4aa792392fe74bf858c3268c.bundle": {
         "class": [
@@ -771,11 +496,11 @@
         ],
         "key": "chart.MidnightFlux.ProjectG.0.EZ"
     },
-    "2166249eb1d93bafaafdb21a4fc170e6.bundle": {
+    "221ab4d431e0291643a11d996b374712.bundle": {
         "class": [
             "UnityEngine.TextAsset"
         ],
-        "key": "local.zh-Hans"
+        "key": "chart.Revenant.Juggernaut.0.EZ"
     },
     "2319e5fc323c40a573724855bd1eb674.bundle": {
         "class": [
@@ -828,12 +553,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Empire.416.0.HiRes"
-    },
-    "2bb4428a079456c73e14148d20cfb881.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "local.zh-Hant"
     },
     "2de0bfd2b704d5b8fd7417039d5a08ac.bundle": {
         "class": [
@@ -917,17 +636,6 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Vrtuaresort.seatrus.0.HiRes"
-    },
-    "3b7336b3202c1c045e11db637884fbab.bundle": {
-        "class": [
-            "LevelInfo",
-            "MusicInfo",
-            "IllustrationInfo",
-            "ChartInfo",
-            "DifficultyColorInfo",
-            "AssetList"
-        ],
-        "key": "AssetList"
     },
     "3bcafc63e018b460582103893c795157.bundle": {
         "class": [
@@ -1024,6 +732,12 @@
         ],
         "key": "chart.TurningPOINT.Junk.0.IN"
     },
+    "472fb5d1ed432762c24a278111a356d6.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.ColorfulFlavor.Cansol.0.EZ"
+    },
     "48019474c6767f7321350c964228c0fd.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1041,6 +755,17 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.AuthenticGamever.Rukadesunowheretogo.0.EZ"
+    },
+    "4c6194564f716f3797fb0af473a9be7d.bundle": {
+        "class": [
+            "LevelInfo",
+            "MusicInfo",
+            "IllustrationInfo",
+            "ChartInfo",
+            "DifficultyColorInfo",
+            "AssetList"
+        ],
+        "key": "AssetList"
     },
     "4ceb79e901b667e57acdae1db359a50b.bundle": {
         "class": [
@@ -1071,6 +796,13 @@
             "UnityEngine.Video.VideoClip"
         ],
         "key": "video.tutorial.zh-Hant"
+    },
+    "518ba2f3993adbef338ea9dfb5c4866b.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.Enneaquest.SEPHID.0.HiRes"
     },
     "53398fb38f8561946947d2f50b96cb02.bundle": {
         "class": [
@@ -1160,6 +892,13 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.LavenderLeaffeatLexi.VauBoy.0.HiRes"
+    },
+    "5edd6c936da82d1b24b973d1dc6a2d99.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "event.supportUsEvent.banner.30002"
     },
     "5f018090c06c8b79f7690680adf727cc.bundle": {
         "class": [
@@ -1323,6 +1062,12 @@
         ],
         "key": "chart.ReversedZenith.Synzak.0.EZ"
     },
+    "811010853dfde81a919bbcda7736a924.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.ViciousMockery.Kryexe.0.HD"
+    },
     "82246043cf78e17ae957d9f52df26637.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1375,6 +1120,12 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.Contact.NeutralMoonMK.0.HiRes"
+    },
+    "8e8411dfbda08bd67391bf2176387ce9.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Revenant.Juggernaut.0.HD"
     },
     "8fcfb256ee98f38d0bf2bf33ad3c1d3c.bundle": {
         "class": [
@@ -1434,6 +1185,12 @@
         ],
         "key": "chart.Gleam.Uske.0.IN"
     },
+    "9904c71ce8f18c13fe9df41c9864ef16.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.ParadialResonator.RekuMochizuki.0.IN"
+    },
     "99b97770ec543c59aedd6790dce71b40.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1445,12 +1202,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.SwingSweetTweeDance.Uske.0.HD"
-    },
-    "9c2ba1805fc223313ba9f1480be570f2.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Enneaquest.SEPHID.0.HD"
     },
     "9c8f167e0533355c25840072daf3ff7e.bundle": {
         "class": [
@@ -1515,6 +1266,12 @@
         ],
         "key": "chart.FORTALiCE.ZxNX.0.EZ"
     },
+    "a447337dd783c4751464acec108ab1d8.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Enneaquest.SEPHID.0.IN"
+    },
     "a4db257ba530d0876f1d8e45950e2dbd.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1541,11 +1298,23 @@
         ],
         "key": "illustration.Gleam.Uske.0"
     },
+    "a9ad855119e998712ef2a9f483cef92d.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.ViciousMockery.Kryexe.0.EZ"
+    },
     "aa1977459bf8419f578008a154beecc7.bundle": {
         "class": [
             "UnityEngine.TextAsset"
         ],
         "key": "chart.ILLEGALLEGACY.seatrus.0.HD"
+    },
+    "ae625518a77e27fb1fa7aa3843a25090.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.ColorfulFlavor.Cansol.0.HD"
     },
     "aeef3d7cedf65584cb84f26074b5104a.bundle": {
         "class": [
@@ -1564,6 +1333,12 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.SakuraFubuki.Street.0.HD"
+    },
+    "b52a069327af0ddfe0cec09292414af0.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Enneaquest.SEPHID.0.EZ"
     },
     "b6508a6489051e9ef565b962732697c4.bundle": {
         "class": [
@@ -1648,6 +1423,12 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.FRIEND.DAAN.0.HiRes"
+    },
+    "c2803d69d1c08a017891801d129dd259.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "local.zh-Hans"
     },
     "c40af946a44310f858bc12d9ae53fa1a.bundle": {
         "class": [
@@ -2061,6 +1842,13 @@
         ],
         "key": "chart.ReversedZenith.Synzak.0.IN"
     },
+    "df7b75bb24e5f770cd4aac6a4bea507d.bundle": {
+        "class": [
+            "UnityEngine.Texture2D",
+            "UnityEngine.Sprite"
+        ],
+        "key": "illustration.Enneaquest.SEPHID.0"
+    },
     "e0a3f78dcf5453abda04b894871f1edf.bundle": {
         "class": [
             "UnityEngine.GameObject",
@@ -2171,18 +1959,6 @@
         ],
         "key": "illustration.JourneyToTheRainbows.Ardolf.0"
     },
-    "f5e6a29deee395368548ecab351275f2.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.ParadialResonator.RekuMochizuki.0.IN"
-    },
-    "f5f768c0d7c160f4f66c30abb63769b0.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Enneaquest.SEPHID.0.IN"
-    },
     "f875f3c0e5d322020e9d7e0ac64dba20.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -2228,16 +2004,297 @@
         ],
         "key": "illustration.Tempest.Plum.0"
     },
-    "ffd8895346aea1504bb1a1a3b42b0c8b.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Revenant.Juggernaut.0.EZ"
-    },
     "ffe72464b8d5c62bd27feb1bb61904c1.bundle": {
         "class": [
             "UnityEngine.TextAsset"
         ],
         "key": "chart.MilK.morimoriatsushi.0.EZ"
+    },
+    "38922496": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Contact.NeutralMoonMK.0.acb"
+    },
+    "62901344": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_MainMenu_BGM_Loop_1.acb"
+    },
+    "73545571": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_main_button_SetUp_1.acb"
+    },
+    "98251399": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_play_soundfx_crash_2.acb"
+    },
+    "122650098": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_soundfx_connectionsuccessful_1.acb"
+    },
+    "198942503": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Gleam.Uske.0.acb"
+    },
+    "267540200": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_common_1.acb"
+    },
+    "425801636": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_button_ReadyByOthers_1.acb"
+    },
+    "507358969": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Empire.416.0.acb"
+    },
+    "514086198": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_play_soundfx_crash_1.acb"
+    },
+    "533098392": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_main_button_left_1.acb"
+    },
+    "590475800": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/ILLEGALLEGACY.seatrus.0.acb"
+    },
+    "682918917": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/macrowav.dandeless.0.acb"
+    },
+    "820706235": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Bamboo.rissyuu.0.acb"
+    },
+    "831466577": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/AuthenticGamever.Rukadesunowheretogo.0.acb"
+    },
+    "876174783": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Tempest.Plum.0.acb"
+    },
+    "937196668": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/JourneyToTheRainbows.Ardolf.0.acb"
+    },
+    "990214481": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_soundfx_Countdown_1.acb"
+    },
+    "1087494694": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_PlayEnding_Soundfx_Newbest_1.acb"
+    },
+    "1231738306": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/ArcadeViruZ.AspidCat.0.acb"
+    },
+    "1299130814": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/TheNextArcady.SEPHID.0.acb"
+    },
+    "1323493897": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_PlayEnding_button_lastfx_1.acb"
+    },
+    "1327690154": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_shop_button_coinroll_2.acb"
+    },
+    "1376358262": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Skyscape.Plum.0.acb"
+    },
+    "1390900202": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_ExchangeCards_button_CardReceived_1.acb"
+    },
+    "1391375297": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/SwingSweetTweeDance.Uske.0.acb"
+    },
+    "1398620883": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/LINKLINS.Halv.0.acb"
+    },
+    "1406526948": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_play_button_pause_1.acb"
+    },
+    "1420461794": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_ExchangeCards_button_exchange_1.acb"
+    },
+    "1444681747": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/LavenderLeaffeatLexi.VauBoy.0.acb"
+    },
+    "1512607240": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/FRIEND.DAAN.0.acb"
+    },
+    "1665744930": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/RestrictedAccess.Knighthood.0.acb"
+    },
+    "1709583360": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/FORTALiCE.ZxNX.0.acb"
+    },
+    "1727186430": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Polygons.Riya.0.acb"
+    },
+    "1872351188": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_level_tap_1.acb"
+    },
+    "1900241569": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/Vrtuaresort.seatrus.0.acb"
+    },
+    "1924670551": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_PlayEnding_soundfx_1.acb"
+    },
+    "1984265843": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_soundfx_ChooseASong_1.acb"
+    },
+    "2066342894": {
+        "class": [
+            "CriWare.Assets.CriAddressableAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/SuperUniverseKnighthoodRemix.Knighthood.0.acb"
+    },
+    "2094828827": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_multiplayer_button_Connecting_1.acb"
+    },
+    "2141422981": {
+        "class": [
+            "CriWare.Assets.CriLocalAddressablesAssetImpl",
+            "CriWare.Assets.CriAtomAcbAsset"
+        ],
+        "key": "Assets/GameAssets/CRIAsset/rizline_main_button_BackToMainMenu_1.acb"
     }
 }
