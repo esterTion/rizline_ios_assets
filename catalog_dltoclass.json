@@ -1265,6 +1265,12 @@
         ],
         "key": "chart.AuthenticGamever.Rukadesunowheretogo.0.HD"
     },
+    "8de7cc31d830480ee3a1b8b625e755e2.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Antler.Juggernaut.0.IN"
+    },
     "8e508807c8bb13bbba7133000fcff4ef.bundle": {
         "class": [
             "UnityEngine.GameObject",
@@ -1592,12 +1598,6 @@
         ],
         "key": "chart.macrowav.dandeless.0.IN"
     },
-    "c0ce83143c6382101fbf9cf1f70fc6a6.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Antler.Juggernaut.0.HD"
-    },
     "c1d1b66111cfb7dd9e392c9096c28b67.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1632,12 +1632,6 @@
         ],
         "key": "illustration.Empire.416.0"
     },
-    "c652de6c4032c11346ac44d9e97bee48.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "chart.Antler.Juggernaut.0.IN"
-    },
     "c6a1e91078c9a26292f6dacf3eca5b6d.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -1655,6 +1649,12 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.AuthenticGamever.Rukadesunowheretogo.0.IN"
+    },
+    "cc5e1916472229e10c312bcdf91770ad.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "chart.Antler.Juggernaut.0.HD"
     },
     "cdc71ba6db5df74c5fd74d0a1b954843.bundle": {
         "class": [
