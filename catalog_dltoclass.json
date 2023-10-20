@@ -653,17 +653,6 @@
         ],
         "key": "illustration.CANDYLAND.Seo.0.HiRes"
     },
-    "2f65eb7991b1331871a90ddefc6c66b5.bundle": {
-        "class": [
-            "LevelInfo",
-            "MusicInfo",
-            "IllustrationInfo",
-            "ChartInfo",
-            "DifficultyColorInfo",
-            "AssetList"
-        ],
-        "key": "AssetList"
-    },
     "2f6d02bc3999c6ed54bec906111eec54.bundle": {
         "class": [
             "UnityEngine.ResourceManagement.ResourceProviders.SceneInstance"
@@ -786,6 +775,17 @@
             "UnityEngine.Sprite"
         ],
         "key": "illustration.ColorfulFlavor.Cansol.0.HiRes"
+    },
+    "40f46cf1348bf20db6f83870f356d379.bundle": {
+        "class": [
+            "LevelInfo",
+            "MusicInfo",
+            "IllustrationInfo",
+            "ChartInfo",
+            "DifficultyColorInfo",
+            "AssetList"
+        ],
+        "key": "AssetList"
     },
     "41517419f05050e3b422f507ca26e1ab.bundle": {
         "class": [
@@ -919,6 +919,23 @@
         ],
         "key": "illustration.DropDown.Cosmograph.0"
     },
+    "5b25725afff33bb139cbe9eaae9df741.bundle": {
+        "class": [
+            "UnityEngine.GameObject",
+            "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent",
+            "UnityEngine.Events.PersistentCallGroup",
+            "UnityEngine.Events.UnityEvent",
+            "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
+            "UnityEngine.Events.PersistentListenerMode",
+            "UnityEngine.Events.ArgumentCache",
+            "UnityEngine.UI.Navigation",
+            "UnityEngine.UI.ColorBlock",
+            "UnityEngine.UI.SpriteState",
+            "UnityEngine.UI.AnimationTriggers",
+            "UnityEngine.UI.Button+ButtonClickedEvent"
+        ],
+        "key": "event.juggernautEvent.card"
+    },
     "5b6e8693a9e168fe691c0a85aa74f176.bundle": {
         "class": [
             "UnityEngine.TextAsset"
@@ -985,6 +1002,12 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.TheNextArcady.SEPHID.0.EZ"
+    },
+    "650e6a3f0c52f3960bc5e25e0a6c33b0.bundle": {
+        "class": [
+            "UnityEngine.TextAsset"
+        ],
+        "key": "local.en.achievement"
     },
     "66d07d8ae8e51771122c6143e8a81f2d.bundle": {
         "class": [
@@ -1271,23 +1294,6 @@
         ],
         "key": "chart.Antler.Juggernaut.0.IN"
     },
-    "8e508807c8bb13bbba7133000fcff4ef.bundle": {
-        "class": [
-            "UnityEngine.GameObject",
-            "UnityEngine.UI.MaskableGraphic+CullStateChangedEvent",
-            "UnityEngine.Events.PersistentCallGroup",
-            "UnityEngine.Events.UnityEvent",
-            "UnityEngine.Events.UnityEvent`1[[System.Single, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089]]",
-            "UnityEngine.Events.PersistentListenerMode",
-            "UnityEngine.Events.ArgumentCache",
-            "UnityEngine.UI.Navigation",
-            "UnityEngine.UI.ColorBlock",
-            "UnityEngine.UI.SpriteState",
-            "UnityEngine.UI.AnimationTriggers",
-            "UnityEngine.UI.Button+ButtonClickedEvent"
-        ],
-        "key": "event.juggernautEvent.card"
-    },
     "8fcfb256ee98f38d0bf2bf33ad3c1d3c.bundle": {
         "class": [
             "UnityEngine.Texture2D",
@@ -1324,12 +1330,6 @@
             "UnityEngine.TextAsset"
         ],
         "key": "chart.JourneyToTheRainbows.Ardolf.0.IN"
-    },
-    "920dccbc84c0dd27dd9ab88a19c88399.bundle": {
-        "class": [
-            "UnityEngine.TextAsset"
-        ],
-        "key": "local.en.achievement"
     },
     "921f6af322564770c6eb44ee31829210.bundle": {
         "class": [
